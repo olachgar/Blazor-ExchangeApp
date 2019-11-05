@@ -5,4 +5,8 @@
     <RootNamespace>Blazor_ExchangeApp.Web</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Blazor-ExchangeApp.Lib\Blazor-ExchangeApp.Lib.csproj" />
+  </ItemGroup>
+
 </Project>
